@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sauce\\Class_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC81F31-238B-48D6-ABD7-8A864A8F56CD}|Class_Practice\\Class_Practice.csproj|e:\\sauce\\class_practice\\class_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC81F31-238B-48D6-ABD7-8A864A8F56CD}|Class_Practice\\Class_Practice.csproj|solutionrelative:class_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC81F31-238B-48D6-ABD7-8A864A8F56CD}|Class_Practice\\Class_Practice.csproj|e:\\sauce\\class_practice\\class_practice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC81F31-238B-48D6-ABD7-8A864A8F56CD}|Class_Practice\\Class_Practice.csproj|solutionrelative:class_practice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\sauce\\Class_Practice\\Class_Practice\\Person.cs",
+              "RelativeDocumentMoniker": "Class_Practice\\Person.cs",
+              "ToolTip": "E:\\sauce\\Class_Practice\\Class_Practice\\Person.cs",
+              "RelativeToolTip": "Class_Practice\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:51:58.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sauce\\Class_Practice\\Class_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Class_Practice\\Program.cs",
+              "ToolTip": "E:\\sauce\\Class_Practice\\Class_Practice\\Program.cs",
+              "RelativeToolTip": "Class_Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:54:55.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

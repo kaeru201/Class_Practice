@@ -1,0 +1,14 @@
+E:\sauce\Class_Practice\Class_Practice\bin\Debug\net8.0\Class_Practice.exe
+E:\sauce\Class_Practice\Class_Practice\bin\Debug\net8.0\Class_Practice.deps.json
+E:\sauce\Class_Practice\Class_Practice\bin\Debug\net8.0\Class_Practice.runtimeconfig.json
+E:\sauce\Class_Practice\Class_Practice\bin\Debug\net8.0\Class_Practice.dll
+E:\sauce\Class_Practice\Class_Practice\bin\Debug\net8.0\Class_Practice.pdb
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.AssemblyInfoInputs.cache
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.AssemblyInfo.cs
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.csproj.CoreCompileInputs.cache
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.dll
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\refint\Class_Practice.dll
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.pdb
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.genruntimeconfig.cache
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\ref\Class_Practice.dll
