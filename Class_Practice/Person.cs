@@ -57,27 +57,29 @@ namespace Class_Practice
         //メンバ変数に干渉するためのプロパティ
         //Nameという言い方ならnameに干渉できるように設計
         public string Name
-            { 
+        {
             get { return name; } 　//読み取り機能　本来不干渉のnameの値をリターン(ゲット)します
             //set { name = value; }　//書き込み機能　本来不干渉のnameに「Nameに代入された値」を代入
         }
 
         //技をひとつ公表するメソッド
-        public void AttackInfo(int x)
+        //オーバーロードして引数あり、引数なし 2種類作っておく
+        //継承先でオーバーライドされるメソッドの予定なのでvirtual宣言も加えておく
+        public virtual void AttackInfo(int x)
         {
             switch (x)
             {
                 case 1:
                     Console.WriteLine("必殺の右ストレート");
                     break;
-                    default:
+                default:
                     Console.WriteLine("必殺のタックル");
                     break;
 
             }
         }
 
-        public void AttackINfo()
+        public virtual void AttackInfo()
         {
             Console.WriteLine("必殺のタックル");
         }
