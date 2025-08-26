@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "E:\\sauce\\Class_Practice\\Class_Practice\\Person.cs",
-              "RelativeDocumentMoniker": "Class_Practice\\Person.cs",
-              "ToolTip": "E:\\sauce\\Class_Practice\\Class_Practice\\Person.cs",
-              "RelativeToolTip": "Class_Practice\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T01:51:58.267Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,23 @@
               "RelativeDocumentMoniker": "Class_Practice\\Program.cs",
               "ToolTip": "E:\\sauce\\Class_Practice\\Class_Practice\\Program.cs",
               "RelativeToolTip": "Class_Practice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T00:54:55.264Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\sauce\\Class_Practice\\Class_Practice\\Person.cs",
+              "RelativeDocumentMoniker": "Class_Practice\\Person.cs",
+              "ToolTip": "E:\\sauce\\Class_Practice\\Class_Practice\\Person.cs",
+              "RelativeToolTip": "Class_Practice\\Person.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:51:58.267Z",
               "EditorCaption": ""
             }
           ]

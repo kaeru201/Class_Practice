@@ -12,7 +12,9 @@ namespace Class_Practice
         {
             //自作したPersonクラス(Person型)の実体化(インスタンス)
             Person p1 = new Person("ムラビート",150);
+            Console.WriteLine (p1.Name);
             p1.InfoDisplay(); //p1にメソッドを使わせてみる
+
         }
     }
 }

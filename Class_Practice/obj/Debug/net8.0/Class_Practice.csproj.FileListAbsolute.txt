@@ -12,3 +12,4 @@ E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\refint\Class_Practice.dl
 E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.pdb
 E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.genruntimeconfig.cache
 E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\ref\Class_Practice.dll
+E:\sauce\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.sourcelink.json
