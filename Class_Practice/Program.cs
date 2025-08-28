@@ -33,16 +33,27 @@ namespace Class_Practice
             Warrior w1 = new Warrior();//引数なしでインスタンス
             w1.InfoDisplay();//Personのメソッドを使ってみる
             w1.AttackInfo(2);//オーバーライドしたメソッドを使ってみる
-            string  ikigomi = w1.Specail();//Specialメソッドで得た値を変数に代入
+            string ikigomi = w1.Specail();//Specialメソッドで得た値を変数に代入
             Console.WriteLine(ikigomi);
+            w1.items.Add("薬草");
+            w1.items.Add("毒消し草");
+            w1.items.Add("煙玉");
+
+            Console.WriteLine(w1.Name + "の所持品");
+            for (int i = 0; i < w1.items.Count; i++)
+            {
+                Console.WriteLine(w1.items[0]);
+            }
 
             Person w2 = new Warrior("イモスケ", 800);
             w2.InfoDisplay();
             w2.AttackInfo(3);
 
-           
 
-            
+
+
+
+
 
         }
     }
